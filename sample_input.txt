@@ -1,0 +1,5 @@
+Topic: Artificial intelligence
+Goal: Understand the basics of Convolutional Neural Networks (CNNs)
+Interest Focus: Image classification
+Knowledge Level: Beginner
+Preferred Format: Text
