@@ -50,7 +50,7 @@ The **Enhanced Interactive Learning Assistant** is an AI-powered system designed
 
 4. Run the application:
     ```bash
-    streamlit run app.py
+    streamlit run learning_assistant_app.py
     ```
 
 ---
